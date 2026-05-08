@@ -20,7 +20,7 @@ The system is divided into three critical strata:
 
 ## 🛡️ 3. THE GREAT FILTER PROTOCOL
 The architecture implements a cognitive and technical filter. 
-- **The User:** Remains outside the infrastructure, consuming noise
+- **The User:** Remains outside the infrastructure, consuming noise.
 - **The Architect:** Reclaims the engine, owning the frequency.
 
 ---
